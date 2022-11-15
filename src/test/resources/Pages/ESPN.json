@@ -1,0 +1,88 @@
+{
+
+    "Icon User": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"global-user-trigger\"]"
+
+}, "Login Icon": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"global-header\"]/div[2]/ul/li[2]/div/div/ul[1]/li[7]/a"
+
+}, "Login Logo": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//div[@id=\"logo\"]"
+
+}, "Iframe": {
+  "GetFieldBy": "id",
+  "ValueToFind": "oneid-iframe"
+
+}, "Login Buttom": {
+  "GetFieldBy": "id",
+  "ValueToFind": "BtnSubmit"
+
+}, "Sing up Buttom": {
+  "GetFieldBy": "id",
+  "ValueToFind": "BtnCreateAccount"
+
+}, "Username": {
+  "GetFieldBy": "id",
+  "ValueToFind": "InputLoginValue"
+
+}, "Password": {
+  "GetFieldBy": "id",
+  "ValueToFind": "InputPassword"
+
+}, "Watch": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"global-nav\"]/ul/li/a[contains(.,'Watch')]"
+
+}, "Carousel": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"fittPageContainer\"]/section/div[1]/section/div[2]/div/div/ul"
+
+  }, "Carousel Tittle": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"fittPageContainer\"]/section/div[1]/section/div[2]/div/div/ul/li[1]/a/div[2]/div/div/h2/span/span"
+
+}, "Carousel Description": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"fittPageContainer\"]/section/div[1]/section/div[2]/div/div/ul/li[1]/a/div[2]/div/div/div"
+
+},"Second Target": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "(//div[@role=\"listbox\"]/ul)[1]/li[2]//img"
+
+},"Close Button": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*/div/div/section/header/button"
+
+},"Welcome User": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"global-header\"]/div[2]/ul/li[2]/div/div/ul[1]/li[1]/span"
+
+},"Logout session": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"global-viewport\"]/div[3]/div/ul[1]/li/a[contains(.,'Log Out')]"
+
+},"ESPN Profile": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"global-header\"]/div[2]/ul/li[2]/div/div/ul[1]/li[5]/a"
+
+},"Deactivate Account": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"AccountDeleteLink\"]"
+
+},"Delete Account Button": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"BtnSubmit\"]"
+
+},"Modal Tittle": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"Title\"]/span"
+
+},"Ok Button": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//*[@id=\"BtnSubmit\"]"
+
+}
+}
